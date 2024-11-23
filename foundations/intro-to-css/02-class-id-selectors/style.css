@@ -1,0 +1,26 @@
+/* Classes */
+
+.odds {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 18px;
+    color: black;
+    background-color: #ffa7a7;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+/* IDs */
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#four {
+    background-color: #80ff81;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
